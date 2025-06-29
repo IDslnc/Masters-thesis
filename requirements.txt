@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+PyQt5
+numpy
+pillow
+sqlalchemy
+psycopg2-binary
+python-docx
+tqdm
