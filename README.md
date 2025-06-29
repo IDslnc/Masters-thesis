@@ -39,14 +39,24 @@
 
 ## Структура репозитория
 
-ai/ # Логика работы с нейросетью
-db/ # Работа с базой данных PostgreSQL
-reports/ # Отчеты и визуализация
-ui/ # GUI-интерфейс на PyQt
-add_user.py # Добавление пользователя
-init_db.py # Инициализация базы данных
-main.py # Точка входа в приложение
-yolov8n.pt # модель YOLOv8n
-best_v5.pt # обученная модель
-Untitled.ipynb # Jupyter Notebook с обучением модели
-requirements.txt # Зависимости проекта
+ai/ Логика работы с нейросетью
+
+db/ Работа с базой данных PostgreSQL
+
+reports/ Отчеты и визуализация
+
+ui/ GUI-интерфейс на PyQt
+
+add_user.py Добавление пользователя
+
+init_db.py Инициализация базы данных
+
+main.py Точка входа в приложение
+
+yolov8n.pt модель YOLOv8n
+
+best_v5.pt обученная модель
+
+Untitled.ipynb Jupyter Notebook с обучением модели
+
+requirements.txt Зависимости проекта
